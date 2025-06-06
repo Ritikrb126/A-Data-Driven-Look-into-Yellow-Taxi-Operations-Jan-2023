@@ -39,7 +39,7 @@ This project leverages a dataset containing over **250,000 Airbnb listings** acr
     - Trip Distance & Duration
     - Fare, Surcharges, Tolls, Tips
     - Payment Type
-- Dataset Source : [NYC Yellow Taxi Analysis - January 2023](https://www.kaggle.com/datasets/ritikrb/tlc-yellow-taxi-trips)
+- Dataset Source : [NYC Yellow Taxi Analysis - January 2023](https://www.kaggle.com/datasets/ritikrb/tlc-yellow-taxi-trips-dataset)
 
 **Source**: Assumed local or from [Inside TLC](https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page)
 
